@@ -1,0 +1,5 @@
+opencv-python==4.7.0.90
+opencv-contrib-python==4.7.0.90
+Pillow==9.2.0
+h5py==3.7.1
+imutils==1.5.1
